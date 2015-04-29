@@ -6,11 +6,14 @@ Here's the test text file
 
 // Make some changes to the file.
 I propose we add our names:
+Jaimes has added his name to test making a change and pushing it
+to GitHub.
 
-// Commit the new version it to your local repository
+// Commit the new version of it to your local repository
 
 // Push the new version to to the cloud Git repository
 
 // Pull the latest version of files to your local repository
 
 // Merge changes with the cloud Git repository and resolve any conflicts
+Let's make a conflict here and have to merge to resolve it.
