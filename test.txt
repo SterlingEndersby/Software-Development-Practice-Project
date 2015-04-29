@@ -8,6 +8,8 @@ Here's the test text file
 I propose we add our names:
 Jaimes has added his name to test making a change and pushing it
 to GitHub.
+Patrick has added his name to test making a change and pushing it
+to GitHub.
 
 // Commit the new version of it to your local repository
 
