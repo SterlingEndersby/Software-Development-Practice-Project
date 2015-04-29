@@ -1,0 +1,16 @@
+SE 407707 GitHub Tutorial
+2015
+
+// Work out how to add a text file in the local repository.
+Here's the test text file
+
+// Make some changes to the file.
+I propose we add our names:
+
+// Commit the new version it to your local repository
+
+// Push the new version to to the cloud Git repository
+
+// Pull the latest version of files to your local repository
+
+// Merge changes with the cloud Git repository and resolve any conflicts
