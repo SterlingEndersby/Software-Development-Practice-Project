@@ -6,9 +6,9 @@ Here's the test text file
 
 // Make some changes to the file.
 I propose we add our names:
-Jaimes has added his name to test making a change and pushing it
+Kai has added his name to test making a change and pushing it
 to GitHub.
-Patrick has added his name to test making a change and pushing it
+Sterling has added his name to test making a change and pushing it
 to GitHub. *Edit test from NetBeans IDE*
 
 // Commit the new version of it to your local repository
